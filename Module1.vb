@@ -2,7 +2,7 @@
 
     Sub Main()
 
-
+        System.Console.WriteLine("Hi")
 
     End Sub
 
